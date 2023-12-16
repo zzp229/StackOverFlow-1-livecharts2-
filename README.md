@@ -1,0 +1,2 @@
+# StackOverFlow-1-livecharts2-
+使用到了livecharts2制作图表，使用控件DocumentViewer显示打印预览，他的问题是需要打印预览的FlowDocument没有绑定上DataContext
